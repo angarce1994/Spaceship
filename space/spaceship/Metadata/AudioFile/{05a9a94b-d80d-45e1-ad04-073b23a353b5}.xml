@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{05a9a94b-d80d-45e1-ad04-073b23a353b5}">
+        <property name="assetPath">
+            <value>usat-bomb_01.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.4497052154195011</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{a74052b3-fc3b-4d3f-9ac5-48ee31cf6dbd}</destination>
+        </relationship>
+    </object>
+</objects>

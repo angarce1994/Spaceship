@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{9ff8c338-6d4b-4e24-bf5f-02cc1c12f6bc}">
+        <property name="assetPath">
+            <value>aeronave_3parte.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>4.8116326530612241</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{a74052b3-fc3b-4d3f-9ac5-48ee31cf6dbd}</destination>
+        </relationship>
+    </object>
+</objects>

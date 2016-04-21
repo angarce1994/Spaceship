@@ -1,0 +1,6 @@
+{ec40f29e-315d-4c75-81d6-a6f99c6a3757} event:/Nave
+{17aa93a2-b41e-4499-9b72-209df5933e09} event:/Explosiones
+{23bcbb34-fac4-471b-952d-4bc71ff3d78d} event:/Música
+{3e8dc28c-75e2-4cf4-b2a8-4526b762ad1a} bus:/
+{a82fd301-c1c4-4ce7-86aa-1c2352a42dd9} bus:/Reverb
+{f56d2894-d709-4d09-bfd9-0c41b4b5bc35} bank:/Master Bank

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{875beeb9-cf48-4576-a4e0-21e190457307}">
+        <property name="assetPath">
+            <value>laser-shot-3.mp3</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>18.076734693877551</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{a74052b3-fc3b-4d3f-9ac5-48ee31cf6dbd}</destination>
+        </relationship>
+    </object>
+</objects>
